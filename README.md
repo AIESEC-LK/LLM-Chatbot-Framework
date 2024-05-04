@@ -1,5 +1,15 @@
 # IntelliHack24 - Task3 (LLM Based Loan Support Assistant)
 
+This repository contains the Task3 - LLM Chatbot developed as a partial requirement for completing Initial Round of IntelliHack 2024.
+
+The Smart Bank Loan Assistant Chatbot is an AI-powered tool designed to assist users with inquiries related to loan products offered by SmartBank.
+
+#### Product Overview
+
+![Preview](src/loan-support-bot.JPG)
+
+### Installation Guidelines
+
 Before starting the project, you can create a seperate python environment and activate it, so that we can install all the required dependencies within the environment.
 
 #### 1. Create a Seperate Environment
