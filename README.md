@@ -1,4 +1,4 @@
-# langchain-ecosystem-study
+# IntelliHack24 - Task3 (LLM Based Loan Support Assistant)
 
 Before starting the project, you can create a seperate python environment and activate it, so that we can install all the required dependencies within the environment.
 
